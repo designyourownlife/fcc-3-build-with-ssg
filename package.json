@@ -1,0 +1,16 @@
+{
+  "name": "fcc-3-build-with-ssg",
+  "version": "1.0.0",
+  "description": "# 3 - Building with a statsic site generator",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "m/s <info@designyourownlife.de",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
